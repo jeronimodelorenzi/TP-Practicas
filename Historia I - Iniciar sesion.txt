@@ -1,0 +1,16 @@
+La acción la de desarrolla el emisor.
+
+El objetivo es poder entrar a la cuenta gmail.
+
+Se cumple para poder entrar a la casilla de correo.
+
+No tiene ningún riesgo
+
+DoR:
+
+1) Debe estar quien cumple la acción.
+2) Debe estar el objetivo de la acción.
+3) Debe contar para que cumple la acción.
+4) No debe contar con ningún riesgo.
+5) Debe poder ser modificable.
+6) Debe ser entendible.
